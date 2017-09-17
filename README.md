@@ -10,6 +10,8 @@ In this project we detect lane lines in images using Python and OpenCV.  OpenCV 
 
 Output video of the project can be found here: [White lane](https://www.youtube.com/watch?v=m6rKND_hsdo) and [Yellow lane](https://www.youtube.com/watch?v=vrTk_fQCZcE), and there is a more difficult video (with turns, shadows, curbs, etc.) [Challege video](https://www.youtube.com/watch?v=43yUWEo0R2o)
 
+See detailed report in "FindingLaneLines_Writeup.pdf"
+
 
 
 
