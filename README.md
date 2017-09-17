@@ -8,7 +8,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project we detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-Output video of the project can be found here: [White lane](https://www.youtube.com/watch?v=m6rKND_hsdo) and [Yellow lane](https://www.youtube.com/watch?v=vrTk_fQCZcE), and there is a more difficult video (with turns, shadows, curbs, etc.) [Challege video] (https://www.youtube.com/watch?v=43yUWEo0R2o)
+Output video of the project can be found here: [White lane](https://www.youtube.com/watch?v=m6rKND_hsdo) and [Yellow lane](https://www.youtube.com/watch?v=vrTk_fQCZcE), and there is a more difficult video (with turns, shadows, curbs, etc.) [Challege video](https://www.youtube.com/watch?v=43yUWEo0R2o)
 
 
 
